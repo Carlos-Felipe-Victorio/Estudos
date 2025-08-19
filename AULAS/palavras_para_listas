@@ -1,0 +1,4 @@
+sentimentos = 'amor, paixao, amizade, odio, vingança, tristeza, felicidade'
+
+lista_sentimentos = sentimentos.split(', ')
+print(lista_sentimentos)
