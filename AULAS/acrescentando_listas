@@ -1,0 +1,11 @@
+frutas = ["maça", "uva", "laranja", "abacaxi", "mamão"]
+novas_frutas = ["abacate", "melão", "coco", "banana"]
+
+frutas.extend(novas_frutas)
+print(frutas)
+
+carros = ["ford", "peugeot", "volkswagen", "bmw"]
+novos_carros = ["fiat", "chevrolet", "jeep"]
+
+lista_carros = carros + novos_carros
+print(lista_carros)
